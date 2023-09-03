@@ -190,7 +190,7 @@ global.rpg = {
 
 
 /*============= WEB API KEY =============*/
-global.openai = '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'  //api key bisa didapatkan dari https://openai.com/api/
+global.openai = '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'  //api key bisa didapatkan dari https://openai.com/api/
 global.org = 'org-bbFW2dYP7GAh3MfT6PLL8vBN'  //openAI Organization name
 global.lolkey = 'SGWN' //buy API at https://api.lolhuman.xyz
 global.uptime = 'u1931038-1f70a77eef5964be82e7d606' // Masukin APIKEY uptimerobot kamu disini ===== https://uptimerobot.com/dashboard?ref=website-header#mySettings

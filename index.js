@@ -20,13 +20,6 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 say('Mahiru', { font: 'chrome', align: 'center', gradient: ['blue', 'green'] })
 say(`Whatsapp Bot MD by Shoukosagiri`, { font: 'console', align: 'center', gradient: ['blue', 'green'] })
 
-console.log(`
-Nao Bot V5
-Author: Shirokami Ryzen
-WA    : +6285174269046
-Base  : BochilTeam
-`)
-
 var isRunning = false
 /**
  * Start a js file

@@ -207,7 +207,7 @@ let tags = {
  
  //ganti gambar di folder media
  //let fotonya = 'link_gambar'
- conn.sendMessage(m.chat, { image: fs.readFileSync('./media/ew.png'), caption: text.trim()}, { quoted: fkon })
+ conn.sendMessage(m.chat, { image: fs.readFileSync('./media/ew.jpeg'), caption: text.trim()}, { quoted: fkon })
   } catch (e) {
     conn.reply(m.chat, 'Maaf, menu sedang error', m)
     throw e

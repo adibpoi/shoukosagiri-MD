@@ -144,14 +144,27 @@ if (!opts['test']) {
 }
 
 function clearTmp() {
-  const tmp = [tmpdir(), join(__dirname, './tmp')]
-  const filename = []
-  tmp.forEach(dirname => readdirSync(dirname).forEach(file => filename.push(join(dirname, file))))
-  return filename.map(file => {
-    const stats = statSync(file)
-    if (stats.isFile() && (Date.now() - stats.mtimeMs >= 1000 * 60 * 3)) return unlinkSync(file) // 3 minutes
-    return false
-  })
+  try {
+    const tmp = [tmpdir(), join(__dirname, './tmp')]
+    const filename = []
+    tmp.forEach(dirname => readdirSync(dirname).forEach(file => filename.push(join(dirname, file))))
+    return filename.map(file => {
+      const stats = statSync(file)
+      if (stats.isFile() && (Date.now() - stats.mtimeMs >= 1000 * 60 * 3)) return unlinkSync(file) // 3 minutes
+      return false
+    })
+  }
+  catch (e) {
+    console.error(e)
+  }
+  // const tmp = [tmpdir(), join(__dirname, './tmp')]
+  // const filename = []
+  // tmp.forEach(dirname => readdirSync(dirname).forEach(file => filename.push(join(dirname, file))))
+  // return filename.map(file => {
+  //   const stats = statSync(file)
+  //   if (stats.isFile() && (Date.now() - stats.mtimeMs >= 1000 * 60 * 3)) return unlinkSync(file) // 3 minutes
+  //   return false
+  // })
 }
 
 function clearSessions(folder = 'sessions') {

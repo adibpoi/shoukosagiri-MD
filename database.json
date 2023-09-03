@@ -1,7 +1,7 @@
 {
   "users": {
     "6283137618897@s.whatsapp.net": {
-      "exp": 300,
+      "exp": 301,
       "limit": 1010,
       "lastclaim": 0,
       "registered": false,
@@ -77,7 +77,7 @@
       "roboxp": 0
     },
     "6282179438863@s.whatsapp.net": {
-      "exp": 2487,
+      "exp": 2937,
       "limit": 10,
       "lastclaim": 0,
       "registered": true,
@@ -146,7 +146,7 @@
       "premium": false,
       "premiumTime": 1779761494600,
       "limitjoin": 0,
-      "pc": 1693581343936,
+      "pc": 1693746131735,
       "warning": 0,
       "petFood": 0,
       "catexp": 0,
@@ -458,7 +458,7 @@
       "roboxp": 0
     },
     "6283196814509@s.whatsapp.net": {
-      "exp": 99,
+      "exp": 106,
       "limit": 10,
       "lastclaim": 0,
       "registered": false,
@@ -610,7 +610,7 @@
       "roboxp": 0
     },
     "62895371566393@s.whatsapp.net": {
-      "exp": 63,
+      "exp": 65,
       "limit": 10,
       "lastclaim": 0,
       "registered": false,
@@ -1142,7 +1142,7 @@
       "roboxp": 0
     },
     "6283174265007@s.whatsapp.net": {
-      "exp": 877,
+      "exp": 920,
       "limit": 10,
       "lastclaim": 0,
       "registered": false,
@@ -1294,7 +1294,7 @@
       "roboxp": 0
     },
     "62895359540670@s.whatsapp.net": {
-      "exp": 429,
+      "exp": 438,
       "limit": 10,
       "lastclaim": 0,
       "registered": false,
@@ -1446,7 +1446,7 @@
       "roboxp": 0
     },
     "6282179592003@s.whatsapp.net": {
-      "exp": 138,
+      "exp": 153,
       "limit": 10,
       "lastclaim": 0,
       "registered": false,
@@ -1746,7 +1746,7 @@
       "pc": 1693495895978
     },
     "6288286942847@s.whatsapp.net": {
-      "exp": 36,
+      "exp": 46,
       "limit": 10,
       "lastclaim": 0,
       "registered": false,
@@ -1822,7 +1822,7 @@
       "roboxp": 0
     },
     "6283115550241@s.whatsapp.net": {
-      "exp": 38,
+      "exp": 43,
       "limit": 10,
       "lastclaim": 0,
       "registered": false,
@@ -2735,16 +2735,16 @@
   },
   "stats": {
     "_manggil.js": {
-      "total": 9,
-      "success": 6,
-      "last": 1693718630311,
-      "lastSuccess": 1693718630311
+      "total": 11,
+      "success": 8,
+      "last": 1693747077497,
+      "lastSuccess": 1693747077497
     },
     "menu.js": {
-      "total": 17,
-      "success": 17,
-      "last": 1693566263168,
-      "lastSuccess": 1693566263168
+      "total": 18,
+      "success": 18,
+      "last": 1693748492445,
+      "lastSuccess": 1693748492445
     },
     "enable.js": {
       "total": 8,
@@ -2771,10 +2771,10 @@
       "lastSuccess": 1693455789090
     },
     "ai-openai.js": {
-      "total": 16,
-      "success": 16,
-      "last": 1693482367650,
-      "lastSuccess": 1693482367650
+      "total": 18,
+      "success": 18,
+      "last": 1693749118879,
+      "lastSuccess": 1693749118879
     },
     "exp-daftar.js": {
       "total": 5,
@@ -2849,10 +2849,10 @@
       "lastSuccess": 0
     },
     "info-speedtest.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1693482302627,
-      "lastSuccess": 1693482302627
+      "total": 4,
+      "success": 4,
+      "last": 1693745532807,
+      "lastSuccess": 1693745532807
     },
     "motivasi.js": {
       "total": 3,
@@ -2867,10 +2867,10 @@
       "lastSuccess": 1693452145217
     },
     "youtube-yta.js": {
-      "total": 25,
-      "success": 25,
-      "last": 1693467919322,
-      "lastSuccess": 1693467919322
+      "total": 38,
+      "success": 33,
+      "last": 1693747996822,
+      "lastSuccess": 1693747996822
     },
     "quotes-islam.js": {
       "total": 2,
