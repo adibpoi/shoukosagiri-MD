@@ -5,7 +5,8 @@
 
 </p>
 <p align="center">
-<a href="[https://github.com/shiestapoi](https://github.com/shiestapoi)"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ShirokamiRyzen-green.svg?style=for-the-badge&logo=github"></a>
+[<a href="[https://github.com/shiestapoi](https://github.com/shiestapoi)"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ShirokamiRyzen-green.svg?style=for-the-badge&logo=github"></a>](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fshiestapoi
+)
 
 
 
