@@ -127,7 +127,7 @@ getMessage: async key => {
 
                 return message;
             }, 
-      // logger: pino({ level: 'silent' })
+       logger: pino({ level: 'silent' })
 }
 
 global.conn = makeWASocket(connectionOptions)

@@ -18,14 +18,17 @@ var handler = async (m, { conn, args }) => {
 ● Ukuran: ${size}
 ● Link YouTube: ${v}`
 
+console.log(dl_url)
   // Kirim pesan dan file audio ke user
   await conn.sendMessage(m.chat, { 
-    document: { url: dl_url }, 
-    mimetype: 'audio/mpeg', 
+    document : { url: dl_url }, 
+    mimetype: 'audio/mp3', 
     fileName: `${ttl}.mp3`,
     caption: info
   }, {quoted: m})
 }
+
+//  await conn.sendMessage(m.chat, { audio: { url: dl_url}, mimetype: 'audio/mp4' } { url: dl
 
 // Jika ingin menambahkan tag, ubah code berikut:
 handler.tags = ['downloader']

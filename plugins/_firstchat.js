@@ -9,10 +9,7 @@ ${user.banned ? '📮Maaf, kamu dibanned & Tidak bisa menggunakan bot ini lagi' 
 
     if (new Date() - user.pc < 21600000) return // waktu ori 21600000 (6 jam)
     await m.reply(`📮Note: Jangan spam botnya
-⏩Ketik *.menu* untuk menampilkan menu
-
-📝Ingin support project ini agar terus update? kirim melalui:
-https://saweria.co/shirokamiryzen`)
+⏩Ketik *.menu* untuk menampilkan menu`)
     user.pc = new Date * 1
 }
 

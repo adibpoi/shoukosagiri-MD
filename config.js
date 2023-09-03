@@ -32,54 +32,54 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
+global.owner = [['6282179438863', 'Shoukosagiri', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6285174269046'
+global.nomorbot = '6285156084586'
+global.nomorown = '6282179438863'
 global.nomorwa = '0'
 
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
-global.author = 'ShirokamiRyzen'
-global.namebot = 'Nao-Botz V5'
-global.wm = '© NaoBotz By ShirokamiRyzen'
+global.author = 'Shoukosagiri'
+global.namebot = '°Mahiru Shiina°'
+global.wm = '© °Mahiru Shiina°'
 global.watermark = wm
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.stickpack = `Sticker Dibuat dengan ${namebot}\ngithub.com/ShirokamiRyzen\n\nNao-Bot\n+6285864034767`
-global.stickauth = `© NaoBotz By ShirokamiRyzen`
+global.stickpack = `None`
+global.stickauth = `© °Mahiru Shiina°`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 
 /*============= OWNER INFO =============*/
-global.nameown1= 'Ryzn'
-global.nameown2 = 'Ryzn'
+global.nameown1= 'Shoukosagiri'
+global.nameown2 = 'Shoukosagiri'
 /*============= MEDIA LINK =============*/
 global.Linkgc = 'Bentar'
 global.lynk = ''
 
 
 //*============= SOSMED =============*/
-global.sig = 'https://www.instagram.com/ryzen_vermillion'
-global.sgh = 'https://github.com/ShirokamiRyzen' //github
-global.sgc = '-' //group whatsapp
-global.sdc = '-' //discord
-global.snh = 'https://www.instagram.com/ryzen_vermillion'
+global.sig = 'None'
+global.sgh = 'None' //github
+global.sgc = 'None' //group whatsapp
+global.sdc = 'None' //discord
+global.snh = 'None'
 
 /*============= DONASI =============*/
-global.pdana = '085174269046'
-global.povo = '-'
-global.pgopay = '085174269046'
-global.plinkaja = '-' //link aja
-global.ppulsa = '085174269046'
-global.ppulsa2 = '085174269046'
-global.psaweria = '-'
+global.pdana = 'None'
+global.povo = 'None'
+global.pgopay = 'None'
+global.plinkaja = 'None' //link aja
+global.ppulsa = 'None'
+global.ppulsa2 = 'None'
+global.psaweria = 'None'
 
 
 /*============= TAMPILAN =============*/
-global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
+global.ListHargaSewa = '-'
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
 global.Ly = '┃'
@@ -190,13 +190,13 @@ global.rpg = {
 
 
 /*============= WEB API KEY =============*/
-global.openai = 'YOUR_APIKEY_HERE'  //api key bisa didapatkan dari https://openai.com/api/
-global.org = 'YOUR_APIKEY_HERE'  //openAI Organization name
+global.openai = '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'  //api key bisa didapatkan dari https://openai.com/api/
+global.org = 'org-bbFW2dYP7GAh3MfT6PLL8vBN'  //openAI Organization name
 global.lolkey = 'SGWN' //buy API at https://api.lolhuman.xyz
 global.uptime = 'u1931038-1f70a77eef5964be82e7d606' // Masukin APIKEY uptimerobot kamu disini ===== https://uptimerobot.com/dashboard?ref=website-header#mySettings
 global.xzn = 'YOUR_APIKEY_HERE' //daftar sendiri jika key habis https://xzn.wtf/
 global.xyro = 'YOUR_APIKEY_HERE' //https://api.xyroinee.xyz/
-global.ryzen = 'YOUR_APIKEY_HERE' //daftar di api.ryzendesu.com/
+global.ryzen = '0e1980b1' //daftar di api.ryzendesu.com/
 
 global.APIs = {
   // name: 'https://website'
@@ -252,9 +252,9 @@ global.thumblvlup = [
 ]
 
 global.dtu = 'INSTAGRAM'
-global.urlnya = "https://www.instagram.com/ryzen_vermillion"
+global.urlnya = "None"
 global.dtc = 'CALL OWNER'
-global.phn = '0813 8730 7198'
+global.phn = '0821 7943 8863'
 
 
 /*============= JANGAN DIUBAH =============*/
